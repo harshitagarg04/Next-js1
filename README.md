@@ -1,4 +1,5 @@
-<img src="images/Airtable.png" width="400">
+<img width="1335" height="590" alt="Airtable" src="https://github.com/user-attachments/assets/f1df2c14-ef0e-46b8-90e5-36bfc2f2811d" />
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
